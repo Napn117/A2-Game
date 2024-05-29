@@ -1,0 +1,113 @@
+name: nap_level
+background: resources/images/forest.png
+background_music: resources/sounds/jungle_synthetic.wav
+next_level: LEVEL_4 
+level_data:
+  [5GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG1...............................................................................B]
+  [5GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG1...............................................................................B]
+  [5GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG1...............................................................................B]
+  [5GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG1...............................................................................B]
+  [5GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG1.............................................................................G.B]
+  [OXXXXXXXXXXXXXXXXXXXXXXXXXX444444446.............................................................).................X.B]
+  [OXXXXXXXXXXXXXXXXXXXXXXXX46....................................................................CC51................R.B]
+  [OXXXXXXXXXXXXXXXXXXX44446R.............................................................#$E.E.H.CCO2CCQ.............R.B]
+  [OXXXXXXXXXXXXX444446.....R............................................................5GGGGGGGGGGX2CC.jjj....E$#$..R.B]
+  [OXXXXXXXXXXX46...........R.....C...C...C...C...C...C.............................@....R..34444444XXGGGGGG1..5GGGG1.R.B]
+  [OXXXXXXXXX46.............R...a...#$#.##.$##$..#$$$..$$#.....G.....51..................R..........OX444444XWWX4446..R.B]
+  [OXXXXX4446...............R...5GGGGGGGGGGGGGGGGGGGGGGGGG1..........3.....5G1.....5GG1..R..........O2......3446..R...R.B]
+  [34444X6..................R......3444444444444444444444X2................346......44...R........Q.O2.Q..........R.C.R.B]
+  [B.R......................R............................O2WWWWWWWWWWWWWW...........RC...R..........O2............R.C.R.B]
+  [B.R......................R............................344444444444444XWWWWWWW....R............5GGX2............R.....B]
+  [B.R......................R...........................................3444444X....RC...........O44XXWWWW........R.....B]
+  [B.R......................R..................................................OWW..R.............R.OX4444..............B]
+  [B.R......................R..................................................OX2......#$$$##$...R.36..R..........$.j..B]
+  [B.R......................R..................................................3XXWWWWGGGGGGGGG1..R.....R....jj...5GGGWW1]
+  [B.R...jjjjj.a....)...............S......S......S......S...........Q.....Q...CCOX444444444444X..R.....R...GGGGWW4444446]
+  [B.R.5GGGGGGG1....51.....8....(.....$$.$$....7.....#%#...E.E.51)$....$$....H.CCO2...............R.....R....34446......B]
+  [B.R.OXXXXXX46....3......5GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGXXGGGGGGGGGGGGGGGG46...........Q...R.51..R.......R.....Q.B]
+  [B.R.OXXXXX2..............344444XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX444444444444446.R......jjjjjj.......O2..R...L...R.......B]
+  [B.R.OXXXXX2WWWWWWWWWWWWWWWWWWWWOXXXXXXXXXXXXXXXXXXXX444444446......R....R....R.....5GGGGGGGGG1.E.O2..R...L...R.......B]
+  [B.R.344XXX2wwwwwwwwwwwwwwwwwwwwOXXXXXXXXXXXXXXXX4446...............R....R....R....5XXXX4444444GGGX2..R...L...R....WWWB]
+  [B.R....344444444444444444444444XXXXXXXXXXXXXXXX6...................R....R....R...544446.......OXXX2.Q....L...R....342B]
+  [B.R..........R.................OXXXXXXXXXXXXXX2....................R....R....R................OXXX2..........R..L..R.B]
+  [B.R..........R.................OXXXXXXXXXXX4446....................R....R....R................OXXX2..........R..L..R.B]
+  [B.R..........R..L..............OXXXXXXXXX46...R.........J..........R....R....R................344X2WWW..........L..R.B]
+  [B.Rh.........R..LL.............OXXXXXXXX2.....R............M.......R.............................OXX46.............R.B]
+  [B.R..........R..LLL..L.....h...OXXXXXXXX2.....R.....M.....5GG1...................................346...............R.B]
+  [B.R..........R.......LLL.......OXXXXXXXX2.....R....5GG1....36......................................................R.B]
+  [B.....S......R........L........OXXXXXXXX2.H.........36..........................S..................................Q.B]
+  [B#.$$...jj..............jjj....OXXXXXXXXXGG1............Q.........Q......S..........Q...........a...G...E.##.E.###...B]
+  [5GGGGGGGGG1............5GGG1...OXXXXXXXXXXXX1.jjjj..............G...9(.....jjj..51#......##.a..L5GGGXGGGGGGGGGGGGGGG1B]
+  [OXXXX2..................OX2.C..OXXXXXXXXXXXXXGGGGGGGGGGGGGGGGGGGXGGGGGGGGGGGGGGGXXGGGGGGGGGG1..L3XXXX44444444XX44XXX6B]
+  [OXXX46WWWWWWWWWWWWWWWWWW3X2..C.OXXXXXXXX4444444444444444444444444444444444444444444444444XX6R..L.3446........36..3X6.B]
+  [3442wwwwwwwwwwwwwwwwwwwwwO2.C..OXXXXXXX2........R......R...R.......R...R.....R...R.......36.R.....................4..B]
+  [B..344444444444444444444446..C.OXXXXXXX2........R......R...R.......R...R.....R...R..........R........................B]
+  [B...........................C..OXXXXXXX2........R......R...R.......R...R.....R...R..........R........................B]
+  [B..............................OXXXXXXX2........R.J....Rh..R..J....Rh..R.J...Rh..R..J.......R............J....h......B]
+  [B......C.......E.#.E.$.E...#$$.OXXXXXXX2........R......R...R.......R...R.....R...R..........R.......................CB]
+  [B.Ljj..C.jj.5GGGGGGGGGGGGGGGGGGXXXXXXXX2CCCC........................................................j...............CB]
+  [B.L5GGGGGGGGXXXXXXXXXXXXXXXXXXXXXXXXXXXXGGGG1.....5G1.........5G1........G............5G1.jj......L5G1..51..G..G..5G1B]
+  [B.LOXXXXXXXXX4444444444444444444444444XXXXXX2WWWWWOX2WWWWWWWWWOX2WWWWWWWWXWWWWWWWWWWWWOXXGGGGG1...L.4................B]
+  [B.L3XXXXXXXX6.........................344444444444444444444444444444444444444444444444444444446...L..................B]
+  [B.L.34444446..............................................................................R.......L.................CB]
+  [B.L...............jjj.#$.j.$#$.M...K..H......................C............................R.......L.................CB]
+  [B...........Q..5GGGGGGGGGGGGGGGGGGGGGGGG1..........C.........L............................R..............E..E..E..E.CB]
+  [B..jj...jjj....OXXXXXXXXXXXXXXXXXXXXX2CC....J......LL....C...L............................R.............5GGGGGGGGGGGG1]
+  [5GGGGGGGGGGGGGGXXXXXXXXXXXXXXXXXXXXXX2CL....C......LL....L.......J..................J.....R.............34444444444446]
+  [OXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX2LL....L.......L....L..........S.....S....Q..........R......jj...............Q.CB]
+  [34444444444444444444444444444444444446LL....L...C........L............###...$#....G...E...R.....5GG1..#..E...j$j....CB]
+  [B...........................................L...L........L......5GGGGGGGGGGGGGGGGGXGGGGGG1R.51L.3444GGGGGGGGGGGGGGGGG1]
+  [B...............................................L...............34444444444444444444444446R.O2L........344XXXXXXXXXXX2]
+  [B.........................................................................................RCO2L....C......344444444446]
+  [B.........................................................................................RCO2L.....C................B]
+  [B.........................................................................................RCO2L....C.................B]
+  [B.........................................................................................RCO2L..J..C.........Qh.....B]
+  [BPa..jjjjj.......$E....................S..................S...........@....h..............RCO2.....C...............aDB]
+  [5GGGGGGGGGGG1...5GG1#$......................#$.....................Q............Q..)......CCO2...5GGG1..G.G..5G1..5GG1]
+  [OXXXXXXXXXXX2WWWOXXXGG1...9(.......jj.5G1...5G1.....j#j.5GG17..j#j....51.#$...$....51.E...H.O2WWW34446WW4W4WWOX2WWOXX2]
+  [OXXXXXXXXXXX2wwwO4XXXX2...5GGG1...5GGGX46WWWOX2...5GGGGGXXXXGGGGGGGG..OXGGGGGGGG1..OXGG1..5GX2wwwwwwwwwwwwwwwOX2wwOXX2]
+  [OXXXXXX444446wwwww34442wwwO4446WWW34446wwwww346WWWOXXXXXXXXXXXXX4444WW34444444446WW34446WW3446wwwwwwwwwwwwwwwwwwwwOXX2]
+  [OXXXXX2wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwOXXXXXXXXXXXX2wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwOXX2]
+  [OXXXXX2wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwOvvvvvvvvvXXXXXXXXXXXXX2wwwwwwwwwwwwwwwwwwwwwwwwwwOvvvvvvvvvvvvvvvvvvvvvvvXXX2]
+  [OXXXXX2wwwwwwwwwwwwwwwwwwwwwwwwwwwwwOvvvXXXXXXXXXXXXXXXXXXXXXXXXvv2wwwwwwwwwwwwwOvvvvvvvvvXXXXXXXXXXXXXXXXXXXXXXXXXXX2]
+  [OXXXXXXvvvvvvvvvvvvvvvvvvvvvvvvvvvvvXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXvvvvvvvvvvvvvXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX2]
+  [OXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX2]
+  [3444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444446]
+
+keymap:
+  (: MUSHROOM
+  ): MUSHROOM_BLUE
+  #: FOREST_PLANT_0
+  $: FOREST_PLANT_1
+  9: TREE_WILLOW_1
+  8: TREE_WILLOW_2
+  7: TREE_WILLOW_0
+  a: LAMP_POST
+  h: HANGING_VINE
+  J: HANGING_VINE_FLOWERS
+  M: ROCK_LARGE
+  j: BUSH
+  P: PLAYER
+  D: DOOR
+  K: KEY
+  E: PLANT_MONSTER
+  H: HEART
+  B: BARRIER
+  L: LADDER
+  W: WATER_TOP
+  w  WATER_BOTTOM
+  G: FOREST_GROUND_1
+  X: FOREST_GROUND_4
+  O: FOREST_GROUND_3
+  5: FOREST_GROUND_0
+  1: FOREST_GROUND_2
+  2: FOREST_GROUND_5
+  3: FOREST_GROUND_6
+  4: FOREST_GROUND_7
+  6: FOREST_GROUND_8
+  v: FOREST_GROUND_9
+  C: GOLD_COIN
+  S: SKULL_HEAD
+  Q: BEE
+  R: ROPE
+  @: CHECKPOINT

@@ -1,0 +1,54 @@
+name: end
+background: resources/images/endbg.jpg
+background_music: resources/sounds/end.wav
+overlay: resources/images/night_filter.png
+next_level:
+level_data:
+  [B......................................B]
+  [B......................................B]
+  [B......................................B]
+  [B......................................B]
+  [B......................................B]
+  [B......................................B]
+  [B......................................B]
+  [B......................................B]
+  [B......................................B]
+  [B......................................B]
+  [B......................................B]
+  [B......................................B]
+  [B......................................B]
+  [B......................................B]
+  [B......................................B]
+  [B......................................B]
+  [B......................................B]
+  [B......................................B]
+  [B......................................B]
+  [B......................................B]
+  [B......................................B]
+  [B......................................B]
+  [B......................................B]
+  [B......................................B]
+  [B......................................B]
+  [B......................................B]
+  [B.P.....GGGGGGGGGGGGGGGGGGGGGGGG.......B]
+  [B.ssssssssssssssssssssssssssssssssssss.B]
+  [B.SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS.B]
+  [B.SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS.B]
+  [B.SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS.B]
+  [B.SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS.B]
+  [B.SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS.B]
+  [B.SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS.B]
+  [B.SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS.B]
+  [B.SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS.B]
+  [B.SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS.B]
+  [B.SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS.B]
+  [B.SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS.B]
+  [B.SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS.B]
+keymap:
+  P: PLAYER
+  D: DOOR
+  K: KEY
+  B: BARRIER
+  s: FOREST_GROUND_1
+  S: FOREST_GROUND_4
+  G: GOLD_COIN

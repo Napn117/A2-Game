@@ -1,0 +1,48 @@
+name: DEMO
+background: resources/images/bdidea.gif
+background_music: resources/sounds/jungle_synthetic.wav
+overlay: resources/images/night_filter.png
+next_level: forest
+level_data:
+  [BBBBBBBBBBBBBBBBBBBBBBBBBBBBBB]
+  [B............................B]
+  [B............................B]
+  [B............................B]
+  [B............................B]
+  [B............................B]
+  [B............................B]
+  [B.............B.B............B]
+  [B............................B]
+  [B............................B]
+  [B............................B]
+  [B...........E...L............B]
+  [B........GGGGGGGL............B]
+  [B........XXXXXXXL............B]
+  [B...............L............B]
+  [B...............L............B]
+  [B...............L............B]
+  [B...............L............B]
+  [B...............L............B]
+  [B...............L............B]
+  [B...............L............B]
+  [B...............L............B]
+  [B.........L.....L............B]
+  [B.........LGGGGGG............B]
+  [B.........LXXXXXX............B]
+  [B.........LXXXXXX............B]
+  [B.........LXXXXXX............B]
+  [B....P....LXXXXXX.....K...D..B]
+  [GGGGGGGGGGGGGGGGGGGGGGGGGGGGGG]
+  [XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX]
+keymap:
+  P: PLAYER
+  D: DOOR
+  K: KEY
+  E: PLANT_MONSTER
+  H: HEART
+  B: BARRIER
+  L: LADDER
+  l: LAVA
+  W: WATER_TOP
+  G: STONE_FLOOR
+  X: STONE_FILLER
