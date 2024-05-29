@@ -22,12 +22,11 @@ public class LevelManager {
 
     // Define the level variable name.
     public Level DEMO;
-    public Level DEMO_2;
-    public Level LEVEL_3;
     public Level LEVEL_4;
     public Level FOREST;
     public Level LEVEL_5;
     public Level END;
+    public Level LEVEL_2;
 
 
     public LevelManager(Game engine) {
@@ -41,19 +40,17 @@ public class LevelManager {
         // Assign the level name to your level. This points to your level's file under resources/levels.
         // Format: *NAME* = new level.Level(id, spawn_location, key_location)
         DEMO = new Level(this, 0, "resources/levels/level_demo.txt");
-        DEMO_2 = new Level(this, 1, "resources/levels/level_demo_2.txt");
-        LEVEL_3 = new Level(this, 2, "resources/levels/level_demo3.txt");
-        LEVEL_4 = new Level(this,3,"resources/levels/zyra_map.txt");
-        FOREST = new Level(this,4,"resources/levels/level_forest.txt");
-        LEVEL_5 = new Level(this,5,"resources/levels/level5.txt");
-        END = new Level(this,6,"resources/levels/endLevel.txt");
+        LEVEL_2 = new Level(this, 1, "resources/levels/nap_level.txt");
+        LEVEL_4 = new Level(this,2,"resources/levels/zyra_map.txt");
+        FOREST = new Level(this,3,"resources/levels/level_forest.txt");
+        LEVEL_5 = new Level(this,4,"resources/levels/level5.txt");
+        END = new Level(this,5,"resources/levels/endLevel.txt");
 
 
 
 
         levels.put("level_demo", DEMO);
-        levels.put("level_demo_2", DEMO_2);
-        levels.put("level_demo3", LEVEL_3);
+        levels.put("nap_level", LEVEL_2);
         levels.put("level4", LEVEL_4);
         levels.put("forest", FOREST);
         levels.put("level_5", LEVEL_5);
