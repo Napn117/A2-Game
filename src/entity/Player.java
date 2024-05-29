@@ -109,7 +109,7 @@ public class Player extends EntityLiving {
     }
 
     public void incrementScore(){
-        //score += 10;
+        score += 10;
     }
 
     // New method to check for collisions with gold coins
